@@ -55,3 +55,7 @@ print(Norm_of_matrix)
 
 infinity norm of matrix
 ![output](/Screenshot%20(79).png)
+
+RESULT
+
+Thus the program for 1-norm,2-norm and infinity norm of matrix are written and verified
