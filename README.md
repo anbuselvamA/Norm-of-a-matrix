@@ -14,6 +14,8 @@ Anaconda – Python 3.7 Installation / Moodle-Code Runner
 Program:
 # Register No: 22009081
 # Developed By:anbuselvam
+###Program
+```
 # 1-Norm of a Matrix
 
 mat = np.array(eval(input()))
@@ -40,6 +42,7 @@ mat = np.array(eval(input()))
 ans = np.linalg.norm(mat,np.inf)
 Norm_of_matrix = "{:.2f}".format(ans)
 print(Norm_of_matrix)
+```
 
 ### output:
  1 norm of matrix
